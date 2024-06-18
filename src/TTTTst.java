@@ -11,5 +11,6 @@ public class TTTTst {
         System.out.println("새롭게 다시시작ㄷ");
         System.out.println("다시 확인");
         System.out.println("푸쉬가 안됐는디요;;");
+        System.out.println("새로운거 따닥")
     }
 }
