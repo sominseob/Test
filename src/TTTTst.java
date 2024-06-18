@@ -7,5 +7,6 @@ public class TTTTst {
         System.out.println("복제 잘됐는지 확인");
         System.out.println("신입");
         System.out.println("새로운 브릿지 말들기");
+        System.out.println("충돌 실험");
     }
 }
