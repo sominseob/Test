@@ -4,5 +4,6 @@ public class TTTTst {
         System.out.println("git commit 확인");
         System.out.println("아무거나 이해했는지 테스트");
         System.out.println("인텔리제이에서 대충 클릭");
+        System.out.println("복제 잘됐는지 확인");
     }
 }
