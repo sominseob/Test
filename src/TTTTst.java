@@ -4,6 +4,7 @@ public class TTTTst {
         System.out.println("git commit 확인");
         System.out.println("아무거나 이해했는지 테스트");
         System.out.println("데했데했");
+        System.out.println("왜 안돼지");
     }
 
 
