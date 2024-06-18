@@ -6,5 +6,6 @@ public class TTTTst {
         System.out.println("인텔리제이에서 대충 클릭");
         System.out.println("복제 잘됐는지 확인");
         System.out.println("신입");
+        System.out.println("새로운 브릿지 말들기");
     }
 }
