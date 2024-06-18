@@ -6,6 +6,7 @@ public class TTTTst {
         System.out.println("인텔리제이에서 대충 클릭");
         System.out.println("복제 잘됐는지 확인");
         System.out.println("동기화 테스트");
+        System.out.println("새롭게 다시시작ㄷ");
         System.out.println("다시 확인");
     }
 }
